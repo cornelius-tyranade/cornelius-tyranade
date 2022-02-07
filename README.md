@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cornelius-tyranade
 - 👀 I’m interested in Java & Javascript Programming
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Cloud Computing & Blockchain
 - 📫 How to reach me tyranadeisn1@gmail.com
